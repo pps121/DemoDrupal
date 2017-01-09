@@ -1,0 +1,15 @@
+name = Options element
+description = 'This module needs to be ported to D8.'
+package = User interface
+
+; Information added by Drupal.org packaging script on 2014-04-17
+version = "7.x-1.12+0-dev"
+core = "7.x"
+project = "options_element"
+datestamp = "1397696059"
+
+dependencies:
+  - ctools
+  - panels
+  - views
+
